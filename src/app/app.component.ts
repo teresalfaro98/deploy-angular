@@ -15,8 +15,8 @@ export class AppComponent implements OnInit{
 
   title = 'app-real-time';
 
-  miEmpresa: string = 'Grupo Flecha Amarilla';
-  periodo: number = 2020;
+  miEmpresa: string = 'La Salle Bajío';
+  periodo: number = 2021;
 
   menuItems:any[] = [];
 
